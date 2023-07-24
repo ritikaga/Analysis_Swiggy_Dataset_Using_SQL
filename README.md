@@ -24,8 +24,20 @@ DataSet URL <https://www.kaggle.com/datasets/ashishjangra27/swiggy-restaurants-d
 8.  Restaurant chain with a maximum number of branches?
 
 
+## Screenshots of some queries
+![Questions](https://github.com/ritikaga/Analysis_Swiggy_Dataset_Using_SQL/assets/66274316/3c9dc5b1-688b-4512-93d2-6d69d19e5e94)
+
+
+
 ## Project Insights
+* The most popular cuisine is North India which is served in 13869 restaurants in India.
+* The most popular restaurant chain in India in terms of ratings is SHRI KRISHNA FOOD ZONE.
+* Domino's Pizza has 405 branches which is the maximum among all the restaurants in India.
+* Bikaner has 756 restaurants listed in the city which is the highest all over India.
+* The top 5 most popular chains are Apna Food Court AP's Kitchen, B Chom Ping, Bansal's Thali & Combo Meals, and Bento It.
+* Kollam City is having the least expensive restaurant in terms of cost.
+* Number of cities  where Swiggy is having their restaurants listed is 774 cities.
+* Restaurant chain with the maximum number of branches is Domino's Pizza.
+   
 
-## Screenshots
-
-## Conclusion
+ 
